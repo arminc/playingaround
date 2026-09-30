@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="628" height="202" viewBox="650 388 628 202" role="img" aria-labelledby="title desc">
+  <title id="title">Vulnio</title>
+  <desc id="desc">White Vulnio wordmark with the red iJam security triangle above the i. Lettering recreated as vector outlines from the supplied reference.</desc>
+  <g fill="#ffffff">
+    <path id="letter-v" d="M665.8 403.6H700L745.5 542.5L789.3 403.6H823.2L765 571H725.2Z"/>
+    <path id="letter-u" d="M824 452.5H854.1V518.6C854.1 538.2 861.1 547 876.6 547C892.2 547 902.4 535.7 902.4 517.5V452.5H932.6V571H902.9V552C895.1 566.1 882.5 573.5 866.9 573.5C838.8 573.5 824 556.3 824 525.1Z"/>
+    <path id="letter-l" d="M944.5 403.6H974.8V571H944.5Z"/>
+    <path id="letter-n" d="M986.6 452.5H1016.2V471.2C1024.1 457.4 1036.7 450 1052.8 450C1080.3 450 1095.1 467.6 1095.1 498.2V571H1064.9V504.7C1064.9 485.3 1057.8 476.2 1042.8 476.2C1027 476.2 1016.8 487.6 1016.8 505.7V571H986.6Z"/>
+    <path id="letter-i" d="M1106.7 452.5H1137V571H1106.7Z"/>
+    <path id="letter-o" fill-rule="evenodd" d="M1203 449.7C1239.5 449.7 1262.1 473.5 1262.1 511.7C1262.1 549.5 1239.5 573.5 1203 573.5C1166.6 573.5 1143.5 549.5 1143.5 511.7C1143.5 473.5 1166.6 449.7 1203 449.7ZM1203 474.5C1184.8 474.5 1174.1 488.2 1174.1 511.7C1174.1 535 1184.8 548.8 1203 548.8C1221 548.8 1231.6 535 1231.6 511.7C1231.6 488.2 1221 474.5 1203 474.5Z"/>
+  </g>
+  <path id="security-triangle" d="M380 380 180 379.6 280.3 206.6Z" transform="translate(1060.25 363.4) scale(0.22)" fill="#ff0000"/>
+</svg>
